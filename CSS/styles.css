@@ -5,4 +5,11 @@ h1 {
 }
 
 
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  font-size: medium;
+  line-height: 40px;
+}
+
 
