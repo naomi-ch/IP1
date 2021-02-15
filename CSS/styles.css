@@ -32,18 +32,20 @@ p {
    
 }
 
-.About-Me p {
-background-color:steelblue;
-
-}
-
 
 .about-me-title {
   font-size: larger;
 }
 
+.Projects2 {
+  border: 18px;
+  padding: 6px;
+  margin: 20px;
+  background-color: teal;
 
-.projects2 p {
+}
+
+.projects2 {
   font-size: larger;
   background-color: steelblue;
 }
