@@ -29,10 +29,25 @@ p {
   font-size: large;
   line-height: 60px;
   border: 2px
-  
+   
 }
+
+.About-Me p {
+background-color:steelblue;
+
+}
+
+
 .about-me-title {
   font-size: larger;
+}
+
+.Projects {
+  border: 2px;
+  padding: 6px;
+  margin: 20px;
+  background-color: teal;
+
 }
 
 .projects2 {
