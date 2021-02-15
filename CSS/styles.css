@@ -5,6 +5,8 @@ body {
 
 img {
   float: inline-end;
+  border: 2px
+  
 }
 
 h1 {
@@ -24,10 +26,13 @@ p {
 
 .About-Me {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font size: large;
+  font-size: large;
   line-height: 60px;
   border: 2px
   
+}
+.about-me-title {
+  font-size: larger;
 }
 
 .projects2 {
@@ -35,7 +40,15 @@ p {
 }
 
 .first-week {
-  font-size: small;
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.description1 {
+  font-size: medium;
 
 }
 
+.description2 {
+  font-size: medium ;
+}
