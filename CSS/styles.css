@@ -42,7 +42,7 @@ background-color:steelblue;
   font-size: larger;
 }
 
-.Projects {
+.Projects2 {
   border: 2px;
   padding: 6px;
   margin: 20px;
@@ -52,6 +52,7 @@ background-color:steelblue;
 
 .projects2 {
   font-size: larger;
+  background-color: steelblue;
 }
 
 .first-week {
