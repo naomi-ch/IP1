@@ -42,15 +42,8 @@ background-color:steelblue;
   font-size: larger;
 }
 
-.Projects2 {
-  border: 18px;
-  padding: 6px;
-  margin: 20px;
-  background-color: teal;
 
-}
-
-.projects2 {
+.projects2 p {
   font-size: larger;
   background-color: steelblue;
 }
